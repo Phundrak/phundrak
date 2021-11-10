@@ -1,4 +1,5 @@
 <p align="center">
+<h1>Lucien “Phundrak” Cartier-Tilet</h1>
   <img src="./img/icon.png" />
 </p>
 
