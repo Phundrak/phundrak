@@ -12,7 +12,7 @@
   - **Main Website:** [phundrak.com](https://phundrak.com/en)
   - **Gitea Instance:** [labs.phundrak.com](https://labs.phundrak.com)
   - **Linux Configuration:** [config.phundrak.com](https://config.phundrak.com)
-  - **Conlanging:** [langue.phundrak.com](https://langue.phundrak.com/)
+  - **Conlanging:** [conlang.phundrak.com](https://conlang.phundrak.com/)
 - **Social Media:**
   - **Twitter:** [@Phundrak](https://twitter.com/phundrak)
   - **Discord:** Phundrak#0001
