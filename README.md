@@ -7,7 +7,7 @@
 - **Name:** Lucien Cartier-Tilet
 - **Aliases:** Phundrak, P’undrak, Drak-pa
 - **Location:** Paris, France
-- **Occupation:** CS Student, M.D. candidate
+- **Occupation:** 2nd year graduate CS student
 - **Websites:**
   - **Main Website:** [phundrak.com](https://phundrak.com/en)
   - **Gitea Instance:** [labs.phundrak.com](https://labs.phundrak.com)
