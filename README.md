@@ -14,9 +14,9 @@
   - **Linux Configuration:** [config.phundrak.com](https://config.phundrak.com)
   - **Conlanging:** [conlang.phundrak.com](https://conlang.phundrak.com/)
 - **Social Media:**
-  - **Mastodon:** [@phundrak@fosstodon.org](https://fosstodon.org/@phundrak)
+  - **Mastodon:** [@phundrak@emacs.ch](https://emacs.ch/@phundrak)
   - **Twitter:** [@Phundrak](https://twitter.com/phundrak)
-  - **Discord:** Phundrak#0001
+  - **Discord:** @phundrak
 - **Languages Spoken:**
   - **Fluently:** French (native), English
   - **Learning:** Elefen (conversational), Japanese (basics), Norwegian Bοkmål (notions)
