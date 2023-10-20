@@ -7,7 +7,7 @@
 - **Name:** Lucien Cartier-Tilet
 - **Aliases:** Phundrak, P’undrak, Drak-pa
 - **Location:** Paris, France
-- **Occupation:** 2nd year graduate CS student
+- **Occupation:** Consultant
 - **Websites:**
   - **Main Website:** [phundrak.com](https://phundrak.com/en)
   - **Gitea Instance:** [labs.phundrak.com](https://labs.phundrak.com)
@@ -15,6 +15,7 @@
   - **Conlanging:** [conlang.phundrak.com](https://conlang.phundrak.com/)
 - **Social Media:**
   - **Mastodon:** [@phundrak@emacs.ch](https://emacs.ch/@phundrak)
+  - **Pixelfed:** [@phundrak@p.phundrak.com](https://p.phundrak.com/phundrak)
   - **Twitter:** [@Phundrak](https://twitter.com/phundrak)
   - **Discord:** @phundrak
 - **Languages Spoken:**
