@@ -5,18 +5,18 @@
 
 ## Who Am I?
 - **Name:** Lucien Cartier-Tilet
-- **Aliases:** Phundrak, P’undrak, Drak-pa
+- **Aliases:** Phundrak, P’undrak, Phuntsok Drak-pa, Drak-pa
 - **Location:** Paris, France
-- **Occupation:** Consultant
+- **Occupation:** Consultant at [Aubay](https://aubay.com/)
 - **Websites:**
   - **Main Website:** [phundrak.com](https://phundrak.com/en)
-  - **Gitea Instance:** [labs.phundrak.com](https://labs.phundrak.com)
+  - **Gitea:** [labs.phundrak.com](https://labs.phundrak.com) (more active there than here)
   - **Linux Configuration:** [config.phundrak.com](https://config.phundrak.com)
   - **Conlanging:** [conlang.phundrak.com](https://conlang.phundrak.com/)
 - **Social Media:**
   - **Mastodon:** [@phundrak@emacs.ch](https://emacs.ch/@phundrak)
   - **Pixelfed:** [@phundrak@p.phundrak.com](https://p.phundrak.com/phundrak)
-  - **Twitter:** [@Phundrak](https://twitter.com/phundrak)
+  - **Twitter:** [@Phundrak](https://twitter.com/phundrak) (I’m barely there anymore)
   - **Discord:** @phundrak
 - **Languages Spoken:**
   - **Fluently:** French (native), English
@@ -30,5 +30,3 @@
 - Conlanging
 - Worldbuilding
 - Writing
-
-<!-- <a rel="me" href="https://fosstodon.org/@phundrak">Mastodon</a> -->
