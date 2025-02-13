@@ -14,7 +14,7 @@
   - **Linux Configuration:** [config.phundrak.com](https://config.phundrak.com)
   - **Conlanging:** [conlang.phundrak.com](https://conlang.phundrak.com/)
 - **Social Media:**
-  - **Mastodon:** [@phundrak@emacs.ch](https://mastodon.phundrak.com/@phundrak)
+  - **Mastodon:** [@phundrak@mastodon.phundrak.com](https://mastodon.phundrak.com/@phundrak)
   - **Twitter:** [@Phundrak](https://twitter.com/phundrak) (I’m barely there anymore)
   - **Discord:** @phundrak
 - **Languages Spoken:**
