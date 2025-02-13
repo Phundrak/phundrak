@@ -14,8 +14,7 @@
   - **Linux Configuration:** [config.phundrak.com](https://config.phundrak.com)
   - **Conlanging:** [conlang.phundrak.com](https://conlang.phundrak.com/)
 - **Social Media:**
-  - **Mastodon:** [@phundrak@emacs.ch](https://emacs.ch/@phundrak)
-  - **Pixelfed:** [@phundrak@p.phundrak.com](https://p.phundrak.com/phundrak)
+  - **Mastodon:** [@phundrak@emacs.ch](https://mastodon.phundrak.com/@phundrak)
   - **Twitter:** [@Phundrak](https://twitter.com/phundrak) (I’m barely there anymore)
   - **Discord:** @phundrak
 - **Languages Spoken:**
@@ -30,3 +29,4 @@
 - Conlanging
 - Worldbuilding
 - Writing
+- Brewing (mead and ginger beer)
